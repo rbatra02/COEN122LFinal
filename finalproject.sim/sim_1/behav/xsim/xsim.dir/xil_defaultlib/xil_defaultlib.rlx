@@ -1,0 +1,11 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.srcs/sources_1/new/1bitadder.v,1682527720,verilog,,Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.srcs/sources_1/new/2compgen.v,,oneBitAdder,,,,,,,,
+Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.srcs/sources_1/new/2compgen.v,1682550801,verilog,,Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.srcs/sources_1/new/31mux.v,,twoComp,,,,,,,,
+Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.srcs/sources_1/new/31mux.v,1684278620,verilog,,Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.srcs/sources_1/new/alu.v,,threeToOne,,,,,,,,
+Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.srcs/sources_1/new/alu.v,1684278651,verilog,,Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.srcs/sources_1/new/fulladder.v,,ALU,,,,,,,,
+Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.srcs/sources_1/new/alu_tb.v,1684278668,verilog,,,,mux_tb,,,,,,,,
+Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.srcs/sources_1/new/fulladder.v,1682550053,verilog,,Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.srcs/sources_1/new/alu_tb.v,,fullAdder,,,,,,,,

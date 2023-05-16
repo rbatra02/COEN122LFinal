@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue May 16 16:22:25 2023
+# Process ID: 11084
+# Current directory: Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.runs/synth_1
+# Command line: vivado.exe -log mux_tb.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mux_tb.tcl
+# Log file: Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.runs/synth_1/mux_tb.vds
+# Journal file: Z:/ECC/Desktop/Coen122L/finalproject/COEN122LFinal/finalproject.runs/synth_1\vivado.jou
+# Running On: win10708, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 8, Host memory: 68431 MB
+#-----------------------------------------------------------
+source mux_tb.tcl -notrace
