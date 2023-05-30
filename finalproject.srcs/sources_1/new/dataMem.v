@@ -30,6 +30,13 @@ input [31:0] address;
 input [31:0] dataIn;
 
 output reg [31:0] dataOut;
+    
+initial begin
+    data[2] = 3;
+    data[3] = -4;
+    data[4] = 5;
+    data[6] = 20;
+end   
 
 always@(posedge clk)
 begin
