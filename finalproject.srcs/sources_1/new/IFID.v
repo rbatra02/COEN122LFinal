@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module IF_EX(clk, rd_in, rd_out, pc_in, pc_out, inst_in, inst_out, imm_in, imm_out);
+module IF_ID(clk, rd_in, rd_out, pc_in, pc_out, inst_in, inst_out, imm_in, imm_out);
 
 input clk;
 input [31:0] inst_in;
@@ -37,7 +37,8 @@ always@(posedge clk)
 begin
     pc_out = pc_in;
     inst_out = inst_in;
-    
+    rd_out = rd_in;
+    imm_out = imm_in;
 end
 
 endmodule
