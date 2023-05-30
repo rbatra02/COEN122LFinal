@@ -20,7 +20,24 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module ID_EXMEM(
+module IF_EX(clk, rd_in, rd_out, pc_in, pc_out, inst_in, inst_out, imm_in, imm_out);
 
-    );
+input clk;
+input [31:0] inst_in;
+input [7:0] pc_in;
+input [4:0] rd_in;
+input [31:0] imm_in;
+
+output reg [31:0] inst_out;
+output reg [7:0] pc_out;
+output reg [4:0] rd_out;
+output reg [31:0] imm_out;
+
+always@(posedge clk)
+begin
+    pc_out = pc_in;
+    inst_out = inst_in;
+    
+end
+
 endmodule
